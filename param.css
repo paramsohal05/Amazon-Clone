@@ -4,4 +4,9 @@ h1{
 }
 p{
     background-color: blueviolet;
+<<<<<<< HEAD
     color: rgb(8, 8, 51);
+=======
+    color: rgb(8, 8, 51);
+}
+>>>>>>> feature1
